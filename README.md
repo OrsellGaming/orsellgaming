@@ -2,4 +2,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=orsellgaming&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats" align="left" width="500" height="300">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsellgaming&theme=github_dark_dimmed&show_icons=true" alt="Top Used Languages" align="right" width="400" height="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsellgaming&theme=github_dark_dimmed&show_icons=true" alt="Top Used Languages" align="right" width="300" height="300">
